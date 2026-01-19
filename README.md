@@ -46,7 +46,7 @@ If `p < 0.05`, reject H₀.
 
 ## Output
 Print:
-- urban mean, rural mean
+- urban mean, rural mean, mean difference
 - t-statistic and p-value
 
 ## Conclusion 
