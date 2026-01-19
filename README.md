@@ -48,3 +48,8 @@ If `p < 0.05`, reject H₀.
 Print:
 - urban mean, rural mean, mean difference
 - t-statistic and p-value
+
+## Conclusion 
+We find that the t-stat is approx. 7.7 and the p-stat is 3.42 x 10^-64. The t-stat being greater than 1.96 means that the result is significant, and the p-value being less than 0.05 means the same. 
+
+Therefore, we conclude there is a significant difference between the median incomes of urban and rural counties. 
